@@ -25,3 +25,11 @@ The design of the app was created with that in mind.
 
 So if you see a Git Repository with `ShareFile_`, it means that it is specific place to share this file with the community.
 
+
+## List of current `ShareFile_`
+
+Find them all here:  
+https://github.com/OpenMacroInput?tab=repositories&q=ShareFile_&type=&language=&sort=  
+
+Where to learn how to use those file ?
+https://github.com/OpenMacroInput/Documentation/tree/main/FileExtension
